@@ -1,0 +1,5 @@
+F:\OA\FTD.DBUnit\bin\Release\FTD.DBUnit.dll
+F:\OA\FTD.DBUnit\bin\Release\FTD.DBUnit.pdb
+F:\OA\FTD.DBUnit\obj\Release\FTD.DBUnit.csprojResolveAssemblyReference.cache
+F:\OA\FTD.DBUnit\obj\Release\FTD.DBUnit.dll
+F:\OA\FTD.DBUnit\obj\Release\FTD.DBUnit.pdb

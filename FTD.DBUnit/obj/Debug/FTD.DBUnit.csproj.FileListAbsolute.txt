@@ -1,0 +1,14 @@
+E:\FTDOA\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.csprojResolveAssemblyReference.cache
+E:\FTDOA\FTDOA\FTD.DBUnit\bin\Debug\FTD.DBUnit.dll
+E:\FTDOA\FTDOA\FTD.DBUnit\bin\Debug\FTD.DBUnit.pdb
+E:\FTDOA\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.dll
+E:\FTDOA\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.pdb
+F:\tongdaOa\FTDOA\FTD.DBUnit\bin\Debug\FTD.DBUnit.dll
+F:\tongdaOa\FTDOA\FTD.DBUnit\bin\Debug\FTD.DBUnit.pdb
+F:\tongdaOa\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.dll
+F:\tongdaOa\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.pdb
+F:\tongdaOa\FTDOA\FTD.DBUnit\obj\Debug\FTD.DBUnit.csprojResolveAssemblyReference.cache
+F:\OA\FTD.DBUnit\bin\Debug\FTD.DBUnit.dll
+F:\OA\FTD.DBUnit\bin\Debug\FTD.DBUnit.pdb
+F:\OA\FTD.DBUnit\obj\Debug\FTD.DBUnit.dll
+F:\OA\FTD.DBUnit\obj\Debug\FTD.DBUnit.pdb

@@ -1,0 +1,11 @@
+F:\OA\FTD.Web.UI\obj\Release\FTD.Web.UI.csprojResolveAssemblyReference.cache
+F:\OA\FTD.Web.UI\bin\FTD.Web.UI.dll
+F:\OA\FTD.Web.UI\bin\FTD.Web.UI.pdb
+F:\OA\FTD.Web.UI\bin\FTD.BLL.dll
+F:\OA\FTD.Web.UI\bin\FTD.DBUnit.dll
+F:\OA\FTD.Web.UI\bin\FTD.Unit.dll
+F:\OA\FTD.Web.UI\bin\FTD.BLL.pdb
+F:\OA\FTD.Web.UI\bin\FTD.DBUnit.pdb
+F:\OA\FTD.Web.UI\bin\FTD.Unit.pdb
+F:\OA\FTD.Web.UI\obj\Release\FTD.Web.UI.dll
+F:\OA\FTD.Web.UI\obj\Release\FTD.Web.UI.pdb

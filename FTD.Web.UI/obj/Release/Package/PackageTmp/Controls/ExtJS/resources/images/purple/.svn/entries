@@ -1,0 +1,71 @@
+8
+
+dir
+14341
+svn://128.1.1.29/DB%20Dept/develop/Projects/InfoCenter/Source/Gildata.InfoCenter.Web/Content/Ext2/resources/images/purple
+svn://128.1.1.29
+
+
+
+2008-08-15T09:08:10.210250Z
+13729
+wanghao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9b3f7d8-c176-544c-bad6-d01f82f52ace
+
+panel
+dir
+
+toolbar
+dir
+
+form
+dir
+
+menu
+dir
+
+grid
+dir
+
+shared
+dir
+
+s.gif
+file
+
+
+
+
+2008-08-18T02:45:32.796875Z
+fc94fb0c3ed8a8f909dbc7630a0987ff
+2008-08-15T09:08:10.210250Z
+13729
+wanghao
+has-props
+
+window
+dir
+
+tabs
+dir
+
+button
+dir
+
+qtip
+dir
+
