@@ -18,8 +18,7 @@
 	            color: #eeeeee;
             }
         </style>
-        <title>
-        <%=System.Configuration.ConfigurationManager.AppSettings["SYSTitle"]%></title>
+        <title>数维互联网科技OA系统-主页</title>
         <link href="../../css/main.css" type="text/css" rel="stylesheet" />
         <script type="text/javascript">
             //模拟菜单对象

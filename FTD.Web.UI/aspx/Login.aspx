@@ -8,7 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="renderer" content="webkit">
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-        <title>数维互联网科技OA系统</title>
+        <title>数维互联网科技OA系统-登陆</title>
         <link rel="stylesheet" href="../../css/login.css" />
    </head>
 
