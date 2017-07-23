@@ -8,7 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="renderer" content="webkit">
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-        <title><%=System.Configuration.ConfigurationManager.AppSettings["SYSTitle"]%></title>
+        <title>数维互联网科技OA系统</title>
         <link rel="stylesheet" href="../../css/login.css" />
    </head>
 
@@ -30,7 +30,7 @@
                         
                         </div>
                          <div style="font-size:15px; color:red; margin-left:-90px; ">
-                            提醒：现程序为测试程序，程序数据为测试数据，正式运行后将全部清除。
+                            Tisp：现系统为测试版本，系统数据为测试数据，正式运行后将全部清除，<br/>切勿保留、上传重要数据。
                         </div> 
                      </div>
                    
