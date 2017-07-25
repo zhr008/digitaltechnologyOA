@@ -30,7 +30,7 @@
                         
                         </div>
                          <div style="font-size:15px; color:red; margin-left:-90px; ">
-                            Tisp：现系统为测试版本，系统数据为测试数据，正式运行后将全部清除，<br/>切勿保留、上传重要数据。
+                            Tips：现系统为测试版本，系统数据为测试数据，正式运行后将全部清除，<br/>切勿保留、上传重要数据。
                         </div> 
                      </div>
                    
